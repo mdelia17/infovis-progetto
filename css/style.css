@@ -1,0 +1,30 @@
+svg {
+    border: 2px solid rgb(30, 125, 160);
+}
+
+body {
+    font-family: 'Corbel';
+    font-weight: bold;
+}
+  
+h1 {
+    text-align: center;
+    margin-bottom: 2px;
+    color: rgb(56, 56, 56);
+}
+
+.tutorial {
+    text-align: center;
+    margin-bottom: 5px;
+    color: #3d3c3c;
+}
+
+.title {
+    color: rgb(30, 125, 160)
+}
+
+.credits {
+    text-align: center;
+    margin-bottom: 5px;
+    color: #3d3c3c;
+}

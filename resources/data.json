@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "x": 500,
+        "y": 500,
+        "envelope": 40,
+        "basket": 30,
+        "color": 1
+    },
+    {
+        "id": 2,
+        "x": 40,
+        "y": 40,
+        "envelope": 60,
+        "basket": 60,
+        "color": 2
+    },
+    {
+        "id": 3,
+        "x": 400,
+        "y": 800,
+        "envelope": 20,
+        "basket": 60,
+        "color": 3
+    },
+    {
+        "id": 4,
+        "x": 350,
+        "y": 700,
+        "envelope": 20,
+        "basket": 40,
+        "color": 4
+    },
+    {
+        "id": 5,
+        "x": 200,
+        "y": 600,
+        "envelope": 30,
+        "basket": 50,
+        "color": 5
+    },
+    {
+        "id": 6,
+        "x": 800,
+        "y": 350,
+        "envelope": 5,
+        "basket": 7,
+        "color": 6
+    },
+    {
+        "id": 7,
+        "x": 400,
+        "y": 100,
+        "envelope": 10,
+        "basket": 15,
+        "color": 7
+    },
+    {
+        "id": 8,
+        "x": 750,
+        "y": 450,
+        "envelope": 5,
+        "basket": 10,
+        "color": 8
+    },
+    {
+        "id": 9,
+        "x": 600,
+        "y": 700,
+        "envelope": 45,
+        "basket": 45,
+        "color": 9
+    },
+    {
+        "id": 10,
+        "x": 350,
+        "y": 225,
+        "envelope": 10,
+        "basket": 1,
+        "color": 10
+    }
+]
